@@ -1,0 +1,1 @@
+Backend for MLH's 2020 Who Wants to be a Hackionaire hackathon. Built using Express.
